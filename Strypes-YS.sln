@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strypes-YS", "Strypes-YS\Strypes-YS.csproj", "{91CD1C9B-171C-4376-AF50-F128D3577123}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A7974D3C-46CE-488A-AD13-00C0113BF279}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CD1C9B-171C-4376-AF50-F128D3577123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CD1C9B-171C-4376-AF50-F128D3577123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CD1C9B-171C-4376-AF50-F128D3577123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CD1C9B-171C-4376-AF50-F128D3577123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47CD1216-CF89-4E34-AF53-FEB4C225623C}
+	EndGlobalSection
+EndGlobal
